@@ -1,0 +1,11 @@
+a. Now that we’ve learned a little about modular arithmetic, reconsider the numerals we use in our decimal (base 10) system. In that
+system, why do we have only the numerals 0, 1, 2, 3, 4, 5, 6, 7, 8,
+and 9?
+b. What numerals would we need in a base 7 system? How about base
+5?
+
+-------
+
+a. In the decimal system (base 10), we have 10 numerals (0 through 9) because each digit's value represents a power of 10 based on its position within the number.
+
+b. In a base 7 system, we need numerals representing values 0 through 6. In a base 5 system, we need numerals representing values 0 through 4.

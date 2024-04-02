@@ -1,0 +1,7 @@
+What is the difference between the following statements?
+it_is_cloudy_today = True
+it_will_rain_tomorrow = 'True'
+
+------
+
+the first statement assigns a boolean value True to the variable, while the second statement assigns a string value 'True'.

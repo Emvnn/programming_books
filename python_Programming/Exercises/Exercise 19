@@ -1,0 +1,6 @@
+What do you think would happen if we were to evaluate the expression
+1 / 0? Why? Does this result in an error? What type of error results?
+
+------
+
+evaluate the expression 1 / 0 in Python will result in an error. This is because division by zero is mathematically undefined and not allowed. Python raises a specific type of error called ZeroDivisionError when such an operation is encountered.

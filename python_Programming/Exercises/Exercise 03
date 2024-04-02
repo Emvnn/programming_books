@@ -1,0 +1,4 @@
+True or false? Code that you write in the Python shell is saved.
+
+
+- False. Code written in the Python shell is not automatically saved. It is executed interactively and is not saved unless explicitly saved to a file.

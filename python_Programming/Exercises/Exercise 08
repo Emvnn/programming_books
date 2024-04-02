@@ -1,0 +1,8 @@
+Try binary subtraction. What is 11011 - 1110? After calculating in binary,
+convert to decimal and check your answer.
+
+- the result of 11011 - 1110 in binary is 10101.
+
+Now, let's convert this binary result to decimal and check our answer:
+
+Binary 10101 = Decimal 21

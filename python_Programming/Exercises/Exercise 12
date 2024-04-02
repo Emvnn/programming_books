@@ -1,0 +1,9 @@
+We’ve seen that representation error occurs for most floating-point decimal values. Can you find values in the interval [0.0, 1.0) that do not have
+representation error? Give three or four examples. What do all these
+examples have in common?
+
+------
+1- 0.0
+2- 0.25
+3- 0.5
+4- 0.75

@@ -1,0 +1,40 @@
+What happens when you enter the following in the Python shell?
+a. 123.456.789
+b. 123_456_789
+c. hello
+d. "hello'
+e. "Hello" "World!" (this one may surprise you!)
+f. 1,000 (this one, too, may surprise you!)
+g. 1,000.234
+h. 1,000,000,000
+i. '1,000,000,000'
+
+
+------
+
+a. 123.456.789
+This will raise a SyntaxError because the period . is not allowed in the middle of a number literal.
+
+b. 123_456_789
+This is a valid integer literal using underscores for readability. It represents the number 123456789.
+
+c. hello
+If hello is not defined as a variable or function, Python will raise a NameError as it doesn't recognize it.
+
+d. "hello'
+This will raise a SyntaxError because the string literal is not properly terminated with a closing quotation mark '.
+
+e. "Hello" "World!"
+This will concatenate the two string literals "Hello" and "World!" into a single string "HelloWorld!".
+
+f. 1,000
+This will not raise an error, but it's interpreted as a tuple with two elements: (1, 000) due to the comma ,.
+
+g. 1,000.234
+Similar to 1,000, this will be interpreted as a tuple (1, 000.234).
+
+h. 1,000,000,000
+Similar to 1,000, this will also be interpreted as a tuple (1, 000, 000, 000).
+
+i. '1,000,000,000'
+This is a valid string literal containing the characters '1,000,000,000'.

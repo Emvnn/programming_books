@@ -1,0 +1,6 @@
+Python can operate in two different modes. What are these modes and
+how do they differ?
+
+1- Interactive mode: allows you to enter and execute code interactively, one statement at a time, directly in the Python shell.
+
+2- Script mode: involves writing code in a file and then executing the entire file at once using the Python interpreter.
